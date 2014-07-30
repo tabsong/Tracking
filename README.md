@@ -26,6 +26,6 @@ Tracking
 
 * `手机扫描如下二维码直接安装`
 
-![twoDemision](https://raw.githubusercontent.com/tabsong/iOS_3D_Demo/master/ResourcesBed/twoDimensionCode.png)
+![twoDemision](https://raw.githubusercontent.com/tabsong/Tracking/master/PictureBed/twoDemision.png)
 
 * `手机上打开地址:http://fir.im/rAFu>`
